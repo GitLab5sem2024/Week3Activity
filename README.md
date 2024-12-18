@@ -11,7 +11,7 @@ FEATURES :
   * Categorical arrangement
 
 FRONTEND :
-
+    
 
 
 BACKEND :
